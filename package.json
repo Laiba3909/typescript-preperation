@@ -1,0 +1,14 @@
+{
+  "name": "typescript-preperation-first-class",
+  "version": "1.0.0",
+  "description": "we are starting our first typescript preperation class",
+  "main": "index.js",
+  "type": "module",
+  "publishConfig": {"access": "public"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Laiba",
+  "license": "MIT"
+}
